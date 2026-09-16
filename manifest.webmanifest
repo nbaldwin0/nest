@@ -1,0 +1,23 @@
+{
+  "name": "Nest",
+  "short_name": "Nest",
+  "description": "A calm, local-first log for feeding, diapers, growth, and more.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3EEE6",
+  "theme_color": "#F3EEE6",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
