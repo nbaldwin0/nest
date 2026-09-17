@@ -1,4 +1,4 @@
-const CACHE = "nest-v6";
+const CACHE = "nest-v7";
 
 self.addEventListener("install", (event) => {
   self.skipWaiting();
